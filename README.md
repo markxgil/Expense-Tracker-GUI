@@ -38,9 +38,9 @@ A modern, glassmorphism-styled Expense Tracker application built with Python and
 
 ## 📷 Screenshots
 * DARK MODE
-![DARK MODE UI](screenshot\dark-ui.png)
+![DARK MODE UI](screenshot/dark-ui.png)
 * LIGHT MODE
-![LIGHT MODE UI](screenshot\light-ui.png)
+![LIGHT MODE UI](screenshot/light-ui.png)
 
 ---
 Built with 💙 by *Pratik Pattanayak* using Python.
