@@ -1,0 +1,17 @@
+# Local Database and Config
+finance.db
+*.db
+config.ini
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
